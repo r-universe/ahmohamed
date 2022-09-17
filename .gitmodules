@@ -8,8 +8,3 @@
 	url = https://github.com/ahmohamed/lipidr
 	shallow = true
 	registered = true
-[submodule "NetPathMiner"]
-	path = NetPathMiner
-	url = https://github.com/ahmohamed/netpathminer
-	shallow = true
-	registered = true
