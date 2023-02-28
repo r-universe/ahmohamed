@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "NetPathMiner"]
-	path = NetPathMiner
-	url = https://github.com/ahmohamed/netpathminer
-	shallow = true
-	registered = true
 [submodule "lipidr"]
 	path = lipidr
 	url = https://github.com/ahmohamed/lipidr
+	shallow = true
+	registered = true
+[submodule "NetPathMiner"]
+	path = NetPathMiner
+	url = https://github.com/ahmohamed/netpathminer
 	shallow = true
 	registered = true

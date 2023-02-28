@@ -1,8 +1,8 @@
 [
   {
-    "package": "NetPathMiner"
+    "package": "lipidr"
   },
   {
-    "package": "lipidr"
+    "package": "NetPathMiner"
   }
 ]
