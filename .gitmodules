@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "lipidr"]
-	path = lipidr
-	url = https://github.com/ahmohamed/lipidr
 [submodule "NetPathMiner"]
 	path = NetPathMiner
 	url = https://github.com/ahmohamed/netpathminer
+[submodule "lipidr"]
+	path = lipidr
+	url = https://github.com/ahmohamed/lipidr
